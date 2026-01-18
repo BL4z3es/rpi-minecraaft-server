@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
-MC_VERSION="1.21.1"
+MC_VERSION="1.21.11"
 FABRIC_LOADER="0.15.11"
 INSTALLER_JAR="fabric-installer.jar"
 
