@@ -1,0 +1,6 @@
+-Xms1G
+-Xmx4G
+-XX:+UseG1GC
+-XX:MaxGCPauseMillis=100
+-XX:+UnlockExperimentalVMOptions
+-XX:+AlwaysPreTouch

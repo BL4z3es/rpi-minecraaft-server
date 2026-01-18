@@ -1,0 +1,8 @@
+
+logs/
+cache/
+server.jar
+libraries/
+fabric-server-launch.jar
+server.jar
+*.bat

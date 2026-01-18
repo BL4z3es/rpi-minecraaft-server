@@ -1,0 +1,13 @@
+[Unit]
+Description=Minecraft Server
+After=network.target
+
+[Service]
+User=mc
+WorkingDirectory=/home/mc/mc-server/server
+ExecStart=/home/mc/mc-server/server/run.sh
+Restart=on-failure
+Nice=-5
+
+[Install]
+WantedBy=multi-user.target
