@@ -6,3 +6,4 @@ libraries/
 fabric-server-launch.jar
 server.jar
 *.bat
+versions/
